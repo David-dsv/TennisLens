@@ -1,0 +1,5 @@
+{
+  "name": "TennisLens Analytics",
+  "description": "A professional tennis match analysis dashboard that visualizes player tracking, action recognition, and match statistics derived from computer vision pipelines.",
+  "requestFramePermissions": []
+}
